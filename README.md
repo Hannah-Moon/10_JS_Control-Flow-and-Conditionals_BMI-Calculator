@@ -11,7 +11,7 @@
 ## TL;DR
 
 You can fork this repo to modify and make changes of your own. Thanks. 
-Click  <a href="https://hannah-moon.github.io/09_JS_AddtoCart_Increment_Decrement_Operator/" target="_blank">here</a> to see the live demo.
+Click  <a href="https://hannah-moon.github.io/10_JS_Control-Flow-and-Conditionals_BMI-Calculator/">here</a> to see the live demo.
 
 
 ## Built With
